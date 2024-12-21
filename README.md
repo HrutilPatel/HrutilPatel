@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Developer</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600" height="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Coding GIF" width="600" height="300">
 </div>
 
 ---

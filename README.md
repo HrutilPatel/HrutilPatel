@@ -1,12 +1,9 @@
-<h1 align="center">👋 Hi, I'm Hrutil</h1>
-
-<h3 align="center">🌟 A Passionate Software Developer</h3>
+<h1 align="center">Hi, I'm Hrutil</h1>
+<h3 align="center">A Passionate Software Developer</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Coding GIF" width="600" height="300">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600" height="300">
 </div>
-
----
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=hrutilpatel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -14,7 +11,8 @@
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+## Achievements
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hrutilpatel&margin-w=15&theme=dracula" alt="Trophy Showcase" />
@@ -23,9 +21,9 @@
 
 ---
 
-<h2 align="center">💻 Languages & Tools</h2>
+## Languages & Tools
+
 <p align="center">
-  <!-- List of languages and tools -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   </a>
@@ -87,14 +85,16 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrutilpatel&theme=dark" alt="GitHub Streak Stats" width="800"/>
 </div>
 
 ---
 
-<h2 align="center">🤝 Connect with Me</h2>
+## Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/hrutil-patel" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -103,5 +103,6 @@
 
 ---
 
-<h2 align="center">📫 Let's Collaborate!</h2>
-<p align="center">I'm always open to discussing new projects, ideas, or opportunities. Feel free to reach out!</p>
+## Let's Collaborate
+
+I'm always open to discussing new projects, ideas, or opportunities. Feel free to reach out!
